@@ -269,6 +269,9 @@ article {
   overflow-wrap: normal;
   text-align: left;
 }
+.article-title {
+  font-weight: bolder;
+}
 .article-body {
   display: none;
 }
