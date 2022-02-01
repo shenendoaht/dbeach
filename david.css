@@ -121,6 +121,7 @@ footer {
 #main-footer {
   background-color: #623434;
   overflow: hidden;
+  border-radius: 2em;
 }
 nav ul {
   justify-content: space-around;
