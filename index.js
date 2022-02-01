@@ -19,7 +19,7 @@ const featBlurb = document.getElementById('feat-blurb')
 // const recOneBtn = document.getElementById('r-one-more')
 // const recOneClose = document.getElementById('r-one-close')
 // const recOneBlurb = document.getElementById('rec-one-blurb')
-
+ 
 // const recTwo = document.getElementById('recent-two')
 // const recTwoBtn = document.getElementById('r-two-more')
 // const recTwoClose = document.getElementById('r-two-close')
