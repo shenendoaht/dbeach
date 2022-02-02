@@ -60,10 +60,7 @@ a {
   font-size: 1rem;
   text-align: center;
 }
-p {
-  font-size: 0.875rem;
-  color: #0c0c08;
-}
+
 
 #essay-link {
   margin: 0 auto;
@@ -249,6 +246,9 @@ section#top {
   margin: 1em 5px;
   overflow-wrap: normal;
 }
+#hiatus {
+  font-family: inherit;
+}
 #dir-resume,
 #edu-res,
 #writer-res {
@@ -356,7 +356,7 @@ img {
   object-fit: cover;
   background-repeat: no-repeat;
   background-size: 100%;
-  background-position: center 40%;
+  background-position: bottom 40%;
 }
 
 /* Media Queries
@@ -373,6 +373,10 @@ img {
 @media (min-width: 980px) {
   .wrapper {
     max-width: 80%;
+  }
+  #hiatus {
+    max-width: 200ch;
+    text-align: center;
   }
 }
 @media (min-width: 1200px) {
