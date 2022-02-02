@@ -249,7 +249,7 @@ section#top {
   font-weight: 600;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.semester li {
+ol li {
   list-style: normal;
 }
 #dir-resume,
