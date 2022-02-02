@@ -197,12 +197,14 @@ section#top {
   background-image: url("imgs/cloudLoop.png");
   background-repeat: no-repeat;
   background-size: 100%;
-  box-shadow: rgb(0 0 255 / 35%) 0 0 0 1000000px inset;
+  background-attachment: fixed;
+  box-shadow: rgb(0 0 10 / 47%) 0 0 0 1000000px inset;
   background-blend-mode: screen;
   object-fit: center;
   width: 100%;
   max-width: 1200px;
   font-weight: bold;
+  padding: 6em 0;
   /* font-family: 'Satisfy', cursive; */
   text-align: center;
   overflow-wrap: normal;
@@ -210,7 +212,7 @@ section#top {
   margin: 10px auto;
   line-height: 1.8;
   text-transform: uppercase;
-  color: rgb(2, 0, 10);
+  color: var (-- white);
 }
 .resume {
   background-color: #fff;
