@@ -250,7 +250,7 @@ section#top {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .semester li {
-  list-style: bullet;
+  list-style: normal;
 }
 #dir-resume,
 #edu-res,
