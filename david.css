@@ -213,6 +213,10 @@ section#top {
   text-transform: uppercase;
   color: var (-- white);
 }
+#mission, #empathy { 
+  color: white;
+  font-weight: bolder;
+}
 .resume {
   background-color: #fff;
   width: 80%;
