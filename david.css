@@ -166,6 +166,7 @@ a:hover {
   padding: 7.3px 25px;
   background-color: rgba(245, 245, 245, 0.527);
   transition: 1s;
+  border-radius: 1em;
   justify-content: space-around;
   display: flex;
 }
@@ -355,7 +356,7 @@ img {
   object-fit: cover;
   background-repeat: no-repeat;
   background-size: 100%;
-  background-position: center;
+  background-position: center 40%;
 }
 
 /* Media Queries
