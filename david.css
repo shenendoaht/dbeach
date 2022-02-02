@@ -244,6 +244,14 @@ section#top {
   margin: 1em 5px;
   overflow-wrap: normal;
 }
+.date {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.semester li {
+  list-style: bullet;
+}
 #dir-resume,
 #edu-res,
 #writer-res {
