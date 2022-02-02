@@ -199,7 +199,6 @@ section#top {
   background-size: 100%;
   background-attachment: fixed;
   box-shadow: rgb(0 0 10 / 47%) 0 0 0 1000000px inset;
-  background-blend-mode: screen;
   object-fit: center;
   width: 100%;
   max-width: 1200px;
