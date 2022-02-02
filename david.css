@@ -250,7 +250,12 @@ section#top {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 ol li {
-  list-style: normal;
+  list-style: none;
+}
+.semester {
+  padding-left: 2em;
+  line-height: 1.5rem;
+  margin: 0 auto;
 }
 #dir-resume,
 #edu-res,
