@@ -296,6 +296,9 @@ article {
   display: flex;
   justify-content: space-around;
 }
+.social-container a:hover {
+  letter-spacing: normal;
+}
 #facebook, 
 #youtube, 
 #medium, 
