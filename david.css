@@ -63,7 +63,7 @@ a {
 #essay-link {
   margin: 0 auto;
   display: flex;
-  text-align: center;
+justify-content: space-around;
 }
 #personal-bio {
   flex-basis: 75%;
