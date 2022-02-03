@@ -110,8 +110,8 @@ header {
 footer {
   background-color: #0f1a11;
   text-align: center;
-  border-bottom-left-radius: 1em;
-  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: .8em;
+  border-bottom-right-radius: .8em;
 }
 #main-footer {
   background-color: #623434;
