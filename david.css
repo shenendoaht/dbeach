@@ -93,10 +93,10 @@ justify-content: space-around;
 }
 label {
   font-size: 1rem;
-  padding: 0.75em;
+  padding-left: 0.75em;
   margin: auto;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  text-transform: capitalize;
+  display: block;
 }
 header,
 footer {
@@ -186,7 +186,7 @@ section#top {
 }
 .columns {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   padding: 0.5em;
 }
 .cloud {
@@ -228,10 +228,13 @@ section#top {
 .resume li {
   padding-bottom: 1em;
 }
+.dir-res {
+  letter-spacing: 1px;
+}
 .resume-col {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .bio {
   max-width: 70ch;
@@ -300,6 +303,11 @@ article {
 #medium, 
 #instagram {
   color: white;
+}
+.date {
+  padding-left: 1em;
+  font-weight: bolder;
+  display: block;
 }
 /* FORM
  **************************************/
