@@ -192,7 +192,7 @@ section#top {
 .cloud {
   background-image: url("imgs/cloudLoop.png");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   background-attachment: fixed;
   box-shadow: rgb(0 0 10 / 47%) 0 0 0 1000000px inset;
   object-fit: center;
