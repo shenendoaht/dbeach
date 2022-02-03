@@ -392,10 +392,16 @@ img {
   .wrapper {
     max-width: 80%;
   }
+   .cloud {
+    height: 25%;
+  }
 }
 @media (min-width: 1800px) {
   .wrapper {
     max-width: 80%;
+  }
+  .cloud {
+    height: 25%;
   }
 }
 
