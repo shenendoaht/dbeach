@@ -246,15 +246,11 @@ section#top {
   margin: 1em 5px;
   overflow-wrap: normal;
 }
-.date {
-  font-size: 18px;
-  font-weight: 600;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
 ol li {
   list-style: none;
 }
-.semester {
+.current-courses,
+.past-courses {
   padding-left: 2em;
   line-height: 1.5rem;
   margin: 0 auto;
@@ -359,19 +355,19 @@ img {
   object-fit: cover;
 }
 #main-pfp {
-  background-image: url("imgs/david-russell-beach.jpeg");
+  background-image: url("imgs/dbeach_b&w.jpeg");
 }
 #director-pfp {
   background-image: url("imgs/db-guy-zimmerman.jpeg");
 }
 #educator-pfp {
-  background-image: url("imgs/beach_prof.jpeg");
+  background-image: url("imgs/dbeach_grad.png");
 }
 #playwright-pfp {
   background-image: url("imgs/beach_point.jpeg");
 }
 #essay-pfp {
-  background-image: url("imgs/beach.headshot.jpeg");
+  background-image: url("imgs/david-russell-beach.jpeg");
 }
 #main-header {
   background-image: url("imgs/blueridgemtns.jpeg");
