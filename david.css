@@ -292,7 +292,16 @@ article {
 .article-body {
   display: none;
 }
-
+.social-container {
+  display: flex;
+  justify-content: space-around;
+}
+#facebook, 
+#youtube, 
+#medium, 
+#instagram {
+  color: white;
+}
 /* FORM
  **************************************/
 /* .form {
