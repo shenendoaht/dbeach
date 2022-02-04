@@ -393,9 +393,9 @@ img {
     flex-direction: column;
     margin: 10px auto;
   }
-  /* .columns {
+  .columns {
     flex-direction: column;
-  } */
+  }
 }
 @media (min-width: 980px) {
   .wrapper {
