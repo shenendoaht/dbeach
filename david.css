@@ -397,8 +397,8 @@ img {
     flex-direction: column;
   }
   .cloud {
-    margin: .5em;
-    border-radius: 0%;
+    margin: 0 .5em;
+    border-radius: 2em;
   }
 }
 @media (min-width: 980px) {
