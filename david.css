@@ -396,6 +396,10 @@ img {
   .columns {
     flex-direction: column;
   }
+  .cloud {
+    margin: .5em;
+    border-radius: 0%;
+  }
 }
 @media (min-width: 980px) {
   .wrapper {
