@@ -213,10 +213,6 @@ section#top {
 .cloud-text {
   color: #fee6ae;
 }
-#mission, #empathy { 
-  color: white;
-  font-weight: bolder;
-}
 .resume {
   background-color: #fff;
   width: 80%;
@@ -408,13 +404,20 @@ img {
     max-width: 80%;
   }
   #hiatus {
-    max-width: 80ch;
+    max-width: 60%;
     text-align: center;
   }
+   .cloud {
+  border-radius: 2em;  
+}
 }
 @media (min-width: 1200px) {
   .wrapper {
     max-width: 80%;
+  }
+  #hiatus {
+    max-width: 60%;
+    text-align: center;
   }
    .cloud {
   border-radius: 2em;  
@@ -423,6 +426,10 @@ img {
 @media (min-width: 1800px) {
   .wrapper {
     max-width: 80%;
+  }
+   #hiatus {
+    max-width: 60%;
+    text-align: center;
   }
   .cloud {
     border-radius: 2em;
