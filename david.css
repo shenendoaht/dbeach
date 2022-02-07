@@ -362,7 +362,7 @@ img {
   object-fit: cover;
 }
 #main-pfp {
-  background-image: url("imgs/dbeach_b&w.jpeg");
+  background-image: url("imgs/dbeach_bw.jpeg");
 }
 #director-pfp {
   background-image: url("imgs/db-guy-zimmerman.jpeg");
@@ -371,7 +371,7 @@ img {
   background-image: url("imgs/dbeach_grad.png");
 }
 #playwright-pfp {
-  background-image: url("imgs/beach_point.jpeg");
+  background-image: url("imgs/beach_ponder.jpeg");
 }
 #essay-pfp {
   background-image: url("imgs/david-russell-beach.jpeg");
