@@ -299,7 +299,8 @@ article {
 #facebook, 
 #youtube, 
 #medium, 
-#instagram {
+#instagram,
+#npx {
   color: white;
 }
 .date {
